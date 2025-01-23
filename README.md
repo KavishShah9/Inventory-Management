@@ -55,18 +55,3 @@ This project focuses on creating an **Inventory Management Dashboard** to analyz
 
 5. **Detailed SKU Insights**:
    - Revenue share and current stock level of individual SKUs.
-
----
-
-## 📂 **Project Structure**
-- **Dashboard.pbix**: The Power BI file containing the dashboard and DAX calculations.
-- **Data/InventoryData.xlsx**: Sample inventory data used for analysis.
-- **Images/**: Screenshots of the dashboard.
-- **README.md**: Project documentation.
-
----
-
-## 🚀 **How to Use**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/inventory-management-dashboard.git
